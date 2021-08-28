@@ -3,8 +3,8 @@
 ### Atividade M.A.P.A Back-End I.
 
 ## 📦 Tecnologias utilizadas para construção:
-- HTML5 -  Como linguagem de marcação.
-- CSS3  -  Para estilização da página.
+- HTML5   
+- CSS3    
 - Bootstrap 5.
 - PHP
   
